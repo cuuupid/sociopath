@@ -19,3 +19,5 @@ Here's a quick collection of things that I've made use of in my personal life, f
 [Youtube-To-MP3](https://github.com/pshah123/python-youtube-to-mp3) - scrape youtube video as MP3 extremely quickly
 
 [Shillscript](https://github.com/pshah123/shillscript) - esoteric programming language processed in python and written as a jab to Hillary; neat features like "accidental" deletion of all code and easy to use private mailing server
+
+[Sudo Mailer](https://www.fawkesbots.com/Sudo) - can email anyone from any email address (email spoofing!). You can't use it without proving to me that your cause is purely out of educational, research, or pentesting usage (email me for a token).
