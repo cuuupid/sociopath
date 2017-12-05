@@ -4,7 +4,7 @@ Here's a quick collection of things that I've made use of in my personal life, f
 
 [ChanceyNN](https://github.com/pshah123/ChanceyNN) - predict college admissions easily using Artificial Neural Networks
 
-[Gitsploit](https://github.com/pshah123/gitsploit) - give yourself thousands of commits, in the past, instantly
+[Gitsploit](https://github.com/pshah123/gitsploit) - **Removed due to takedown notice.** Give yourself thousands of commits, in the past, instantly
 
 [FB-Hack](https://github.com/pshah123/fb-hack) - **Removed due to takedown notice.** Send payload through messenger and target desktop application Messenger. Relies on user dragging and dropping link, then steals the access token and injects into API v2.4 to steal images, read messages, and assume total control of the account (feed, status, friends, etc.)
 
